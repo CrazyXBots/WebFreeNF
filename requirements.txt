@@ -1,18 +1,18 @@
 pyrotgfork
 PyTgCrypto
-pyrofork==2.3.48
+pyrofork==2.3.68
 tgcrypto
 aiohttp
 python-dotenv<=0.20.0
-motor
+motor==3.7.1
 aiofiles
-dnspython
+dnspython==2.8.0
 apscheduler
 requests
-psutil
+psutil==7.1.3
 jinja2
-pytz
-
+pytz==2025.2
+TgCrypto-pyrofork==1.2.8
 pyromod
 Flask==2.2.2
 gunicorn==20.1.0
@@ -21,3 +21,16 @@ colorama
 
 #Dont Remove My Credit @MSLANDERS 
 # For Any Kind Of Error Ask Us In Support Group @MSLANDERS_HELP
+
+
+hachoir==3.3.0
+Pillow==12.0.0
+
+aiohttp==3.13.2
+
+
+
+
+
+ffmpeg-python
+ffmpeg
